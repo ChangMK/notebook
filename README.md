@@ -89,12 +89,12 @@ oprioirtwiroe
 - [ ] Comet Haley
 + 12
 
-![T](/1.jpeg)
+![](/1.jpeg)
 
 
 $$\sqrt{\pi}$$
 
-```python {cmd="/usr/bin/python3" output="html"}
+```python
     print("123")
 ```
 
