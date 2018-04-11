@@ -88,8 +88,8 @@ oprioirtwiroe
 - [ ] Neptune
 - [ ] Comet Haley
 + 12
-+ 
-@import "1.jpeg"
+
+![T](/1.jpeg)
 
 
 $$\sqrt{\pi}$$
