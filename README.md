@@ -94,7 +94,7 @@ oprioirtwiroe
 
 $$\sqrt{\pi}$$
 
-```python {cmd="/usr/bin/python3" output="html"}
+```python
     print("123")
 ```
 
