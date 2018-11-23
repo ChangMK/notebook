@@ -31,9 +31,12 @@ This is [an example][1] reference-style link.
 [1]:https://www.google.com
 
 ![Google logo][2]
+
 ![Bing logo][3]
+
 [2]: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
-[3]: http://logok.org/wp-content/uploads/2014/09/Bing-logo.png
+
+[3]: https://attach2.mobile01.com/image/news/669194264c6320fa0f19f66dceb48e8b.jpg
 
 @import "https://i.imgur.com/wVUatLK.png"
 
@@ -56,12 +59,6 @@ Use the `printf()` function.
 ```c
 int x
 printf();
-```
-
-```javascript {.line-numbers}
-function add(x, y) {
-  return x + y
-}
 ```
 
 1986\. What a great season.
@@ -88,12 +85,10 @@ oprioirtwiroe
 - [ ] Neptune
 - [ ] Comet Haley
 
-
-![](1.png)
-
 $$\sqrt{\pi}$$
 
-![](1.jpeg)
+![food](1.png)
+
 ```python
     print("123")
 ```
