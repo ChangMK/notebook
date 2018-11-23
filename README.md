@@ -89,8 +89,7 @@ oprioirtwiroe
 - [ ] Comet Haley
 
 
-![](/1.png)
-![](\1.png)
+![](1.png)
 
 $$\sqrt{\pi}$$
 
