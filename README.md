@@ -30,10 +30,10 @@ This is [an example][1] reference-style link.
 
 [1]:https://www.google.com
 
-
 ![Google logo][2]
-
+![Bing logo][3]
 [2]: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
+[3]: http://logok.org/wp-content/uploads/2014/09/Bing-logo.png
 
 @import "https://i.imgur.com/wVUatLK.png"
 
