@@ -33,7 +33,7 @@ This is [an example][1] reference-style link.
 
 ![Google logo][2]
 
-[2]: https://i.imgur.com/wVUatLK.png
+[2]: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
 
 @import "https://i.imgur.com/wVUatLK.png"
 
@@ -87,7 +87,7 @@ oprioirtwiroe
 - [ ] Uranus
 - [ ] Neptune
 - [ ] Comet Haley
-+ 12
+
 
 ![](/1.png)
 ![](\1.png)
