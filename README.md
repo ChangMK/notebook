@@ -90,7 +90,7 @@ oprioirtwiroe
 + 12
 
 ![](/1.png)
-
+![](\1.png)
 
 $$\sqrt{\pi}$$
 
