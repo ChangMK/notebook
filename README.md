@@ -53,7 +53,7 @@ This is [an example][1] reference-style link.
 
 Please don't use any `<blink>` tags.
 
-`&#8212;` is the decimal-encoded equivalent of `&mdash;`.
+`&#8212; is the decimal-encoded equivalent of `&mdash;.
 # CH3
 Use the `printf()` function.
 ```c
