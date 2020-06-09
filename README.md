@@ -39,7 +39,7 @@ This is [an example][1] reference-style link.
 [3]: https://attach2.mobile01.com/image/news/669194264c6320fa0f19f66dceb48e8b.jpg
 
 @import "https://i.imgur.com/wVUatLK.png"
-
+@import "1.png"
 | table | are         | cool             |
 | ----- | ----------: | :--------------: |
 | 12    | 23000000000 | too0000000000000 |
